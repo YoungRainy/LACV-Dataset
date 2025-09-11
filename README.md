@@ -1,2 +1,2 @@
 # LACV-Dataset
-The dataset for the paper "Language-guided and Spatially-consistent Cross-view Localization in GNSS-denied Environment"
+The dataset for the paper "Cross-view Localization for UAV-UGV Collaboration in GNSS-denied Environment"
